@@ -34,6 +34,7 @@ const config = {
 			// Unsplash
 			'source.unsplash.com',
 			'images.unsplash.com',
+			'miro.medium.com',
 		],
 	},
 	// Inspired by: https://github.com/leerob/leerob.io/blob/main/next.config.js#L44-L81
