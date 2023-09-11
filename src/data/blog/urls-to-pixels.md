@@ -10,9 +10,7 @@ date: '2021-12-03'
 From URLs to Pixels — How Browsers bring the Internet to life
 =============================================================
 
-[![Shantanu Wable](https://miro.medium.com/v2/resize:fill:88:88/1*YBx95i10FVzK0lJ_b8H1Fg.jpeg)
-
-](https://medium.com/@shxntanu?source=post_page-----aabf3aaf92f9--------------------------------)
+![Shantanu Wable](https://miro.medium.com/v2/resize:fill:88:88/1*YBx95i10FVzK0lJ_b8H1Fg.jpeg)
 
 [Shantanu Wable](https://medium.com/@shxntanu?source=post_page-----aabf3aaf92f9--------------------------------)
 
