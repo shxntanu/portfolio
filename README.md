@@ -12,7 +12,7 @@
 Clone the repository
 
 ```zsh
-git clone https://github.com/nurodev/nuro.dev.git
+git clone https://github.com/shxntanu/portfolio.git
 ```
 
 Install dependencies
