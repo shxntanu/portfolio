@@ -44,7 +44,3 @@ npm run build
 
 yarn build
 ```
-
-## 📄 License
-
-MIT © [Ben Dixon](https://github.com/nurodev/nuro.dev/blob/main/LICENSE)
