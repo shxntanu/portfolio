@@ -1,7 +1,7 @@
 ---
 banner_alt: Illustration of browsers
 banner: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*rZQFL_tmQ-fEuwVJS6zyiA.png
-title_prefix: Upgrade
+# title_prefix: Upgrade
 title: From URLs to Pixels -- How Browsers bring the Internet to Life
 description: How do browsers work behind the scenes? 🤔
 date: '2021-12-03'

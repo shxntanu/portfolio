@@ -48,7 +48,7 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 		<>
 			<Layout.Blog
 				seo={{
-					title: `${post.frontmatter.title} ─ blog ─ nuro`,
+					title: `${post.frontmatter.title} ─ blog ─ shxntanu`,
 					description: post.frontmatter.description ?? undefined,
 					openGraph: {
 						title: post.frontmatter.title,
@@ -62,11 +62,12 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 						],
 					},
 				}}>
+				{/* BLOG HEADING */}
 				<div className="relative px-4 py-16 overflow-hidden">
 					<div className="relative px-4 sm:px-6 lg:px-8">
 						{post.frontmatter.banner && (post.frontmatter.banner_show ?? true) && (
 							<div className="relative sm:max-w-2xl lg:sm:max-w-6xl mx-auto my-2 sm:my-4">
-								<div className="w-full h-full h-64 lg:h-96 mb-8 bg-gray-200 dark:bg-gray-600 rounded-3xl motion-safe:animate-pulse" />
+								<div className="w-full h-full lg:h-96 mb-8 bg-gray-200 dark:bg-gray-600 rounded-3xl motion-safe:animate-pulse" />
 								<Image
 									alt={post.frontmatter.banner_alt ?? post.frontmatter.title}
 									className="absolute top-0 left-0 w-full h-auto max-h-64 lg:max-h-96 mb-8 rounded-3xl object-cover select-none shadow-xl default-transition"
@@ -100,9 +101,15 @@ export default function BlogPost({ post }: BlogPostProps): JSX.Element {
 							)}
 						</div>
 
+						{/* BLOG CONTENT */}
 						<article className="max-w-prose prose prose-primary prose-lg text-gray-500 mx-auto">
 							<MDXRemote {...post.source} components={Blog.X} />
 						</article>
+
+						{/* CLAP ICON */}
+						<div className="flex justify-center items-center mt-8">
+
+						</div>
 					</div>
 				</div>
 			</Layout.Blog>

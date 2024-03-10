@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "nuro.dev",
+	"name": "shxntanu",
 	"version": "2.1.1",
-	"description": "Personal Website for nuro.dev",
-	"repository": "https://github.com/nurodev/nuro.dev.git",
-	"author": "nurodev <me@nuro.dev>",
+	"description": "Personal Website for Shantanu Wable",
+	"repository": "https://github.com/shxntanu/portfolio.git",
+	"author": "Shantanu",
 	"license": "MIT",
 	"prettier": {
 		"arrowParens": "always",
