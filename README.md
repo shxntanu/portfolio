@@ -49,6 +49,10 @@ npm run build
 yarn build
 ```
 
+## Credits
+
+[@nurodev](https://github.com/nurodev)
+
 ## 📄 License
 
 MIT © [Shantanu Wable](https://github.com/shxntanu/portfolio/blob/main/LICENSE)
