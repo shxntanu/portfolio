@@ -35,6 +35,13 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: 'https://terminal.shxntanu.tech',
+		icon: <Icon className="mr-3" icon="feather:terminal" />,
+		text: 'What\'s this?',
+	},
 ];
 
 export default function HomePage(): JSX.Element {

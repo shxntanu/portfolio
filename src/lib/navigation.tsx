@@ -29,9 +29,9 @@ const staticMenuItems: Array<Array<NavigationItem>> = [
 		},
 		{
 			type: NavigationItemType.LINK,
-			icon: 'feather:clock',
-			text: 'Timeline',
-			href: '/timeline',
+			icon: 'feather:bar-chart-2',
+			text: 'Experience',
+			href: '/experience',
 		},
 	],
 	[
