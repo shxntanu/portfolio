@@ -1,24 +1,40 @@
 [
 	{
-		"date": "12-27-2021",
-		"title": "College, Finally!",
-		"description": "Started my first year at Pune Institute of Computer Technology",
-		"icon": "feather:briefcase",
+		"date": "06-03-2024",
+		"title": "Summer Intern",
+		"description": "Summer Intern at Arista Networks.",
+		"icon": "feather:briefcase"
+	},
+	{
+		"date": "04-07-2024",
+		"title": "Barclays Hack-O-Hire '24",
+		"description": "🏆 Bagged Third Place at Barclays Hack-O-Hire '24.",
+		"icon": "feather:triangle",
 		"link": {
-			"text": "Visit PICT",
-			"url": "http://pict.edu"
+			"text": "Post",
+			"url": "https://www.linkedin.com/posts/shxntanu_barclayshackohire-barclays-teamwork-activity-7183385022597394432--eWf?utm_source=share&utm_medium=member_desktop"
 		}
 	},
 	{
-		"date": "06-10-2006",
-		"title": "School",
-		"description": "Began studying at the Bishop's School, Pune",
-		"icon": "feather:book"
+		"date": "03-29-2024",
+		"title": "PICT TechFiesta 2024",
+		"description": "Finalist in TechFiesta '24, PICT's International Level Hackathon.",
+		"icon": "feather:triangle"
 	},
 	{
-		"date": "08-09-1997",
-		"title": "Birthday!",
-		"description": "I was born the 20th of April, 2003",
-		"icon": "feather:gift"
+		"date": "10-27-2023",
+		"title": "COEP MindSpark '23",
+		"description": "🏆 Bagged First Place at Tata Power SIA Hackathon at COEP Pune.",
+		"icon": "feather:triangle",
+		"link": {
+			"text": "Post",
+			"url": "https://www.linkedin.com/posts/shxntanu_hackathon-hackathonwinners-solarenergy-activity-7125920272548806656-UcAC?utm_source=share&utm_medium=member_desktop"
+		}
+	},
+	{
+		"date": "09-15-2023",
+		"title": "Web Developer Intern",
+		"description": "Interned as a Full Stack Web Developer Intern at Rhythmflows Solutions Pvt. Ltd.",
+		"icon": "feather:briefcase"
 	}
 ]
